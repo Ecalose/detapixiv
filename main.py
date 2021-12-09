@@ -13,7 +13,7 @@ async def read_root():
     rep = f'''Usage:
 
 1. http://{SELF_URL}/$path
-   - http://{SELF_URL}/img-original/img/0000/00/00/00/00/00/12345678_p0.png
+   - http://{SELF_URL}/img-original/img/2018/04/24/01/51/35/68377968_p0.png
 
 2. http://{SELF_URL}/$pid[/$p][?img_type=original|regular|small|thumb|mini]
    - http://{SELF_URL}/12345678    (p0)
