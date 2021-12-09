@@ -1,5 +1,5 @@
 {
-	"name": "hello_world",
+	"name": "hello",
 	"description": "Deploy to Deta button example",
 	"env": [
 		{
